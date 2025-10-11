@@ -1,0 +1,22 @@
+# Measuements
+[ ]  - Screen
+[ ]  - Scroll Ball
+[ ]  - Keyboard
+
+# Design
+[ ]  - Design Motherboard
+[ ]    - finalize placment for 
+[ ]        - pinouts, 
+[ ]        - cooling, 
+[ ]        - keyboard wire, 
+[ ]        - screen connections
+[ ]        - Scroll Ball
+[ ]    - finalize mounting points for screws
+[ ]  - Design case
+[ ]    - Hold Screen
+[ ]    - Proper access to pinouts
+[ ]    - all correct ports for access
+[ ]  - Design keyboard
+[ ]  - Design nixos configuration
+[ ]    - configuration.nix
+[ ]    - home manager
